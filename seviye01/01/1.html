@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Ses Oynatıcı — 1.mp3</title>
+  <style>
+    :root{font-family:system-ui,-apple-system,Segoe UI,Roboto,"Helvetica Neue",Arial;}
+    body{display:flex;align-items:center;justify-content:center;min-height:100vh;margin:0;background:#f6f8fb;color:#0b2545}
+    .card{background:white;padding:28px;border-radius:14px;box-shadow:0 6px 28px rgba(11,37,69,0.08);max-width:520px;width:92%}
+    h1{margin:0 0 8px;font-size:20px}
+    p.meta{margin:6px 0;color:#36507a}
+    .controls{display:flex;gap:12px;align-items:center;margin-top:18px}
+    button.play{padding:10px 16px;border-radius:10px;border:0;background:#0b6bff;color:white;font-weight:600;cursor:pointer}
+    button.play[aria-pressed="true"]{background:#0458d6}
+    audio{width:100%;margin-top:12px}
+    .note{margin-top:12px;font-size:13px;color:#556b86}
+    a.download{display:inline-block;margin-top:10px;padding:8px 12px;border-radius:8px;background:#eef6ff;color:#0b6bff;text-decoration:none}
+  </style>
+</head>
+<body>
+  <div class="card">
+	   <h1>Ben Alp</h1>
+	
+
+    <!-- Audio element: dosya yolu buraya -->
+    <audio id="player" preload="metadata">
+      <source src="./ses/1.mp3" type="audio/mpeg">
+      Tarayıcınız ses elementini desteklemiyor veya dosya bulunamadı.
+    </audio>
+
+    <div class="controls">
+      <button id="playBtn" class="play" aria-pressed="false">▶︎ Oynat</button>
+      <div style="flex:1">
+        <!-- Görsel kontrol: progress + süre -->
+        <div id="time">00:00 / 00:00</div>
+      </div>
+    </div>
+
+    </div>
+
+  <script>
+    const player = document.getElementById('player');
+    const playBtn = document.getElementById('playBtn');
+    const timeEl = document.getElementById('time');
+
+    function formatTime(t){
+      if (isNaN(t)) return '00:00';
+      const m = Math.floor(t/60).toString().padStart(2,'0');
+      const s = Math.floor(t%60).toString().padStart(2,'0');
+      return `${m}:${s}`;
+    }
+
+    player.addEventListener('loadedmetadata', ()=>{
+      timeEl.textContent = `${formatTime(0)} / ${formatTime(player.duration)}`;
+    });
+
+    player.addEventListener('timeupdate', ()=>{
+      timeEl.textContent = `${formatTime(player.currentTime)} / ${formatTime(player.duration)}`;
+    });
+
+    playBtn.addEventListener('click', ()=>{
+      if (player.paused){
+        player.play();
+        playBtn.textContent = '⏸️ Duraklat';
+        playBtn.setAttribute('aria-pressed','true');
+      } else {
+        player.pause();
+        playBtn.textContent = '▶︎ Oynat';
+        playBtn.setAttribute('aria-pressed','false');
+      }
+    });
+
+    // Klavye desteği: boşluk ile oynat/duraklat
+    window.addEventListener('keydown', (e)=>{
+      if (e.code === 'Space'){
+        e.preventDefault();
+        playBtn.click();
+      }
+    });
+  </script>
+</body>
+</html>
