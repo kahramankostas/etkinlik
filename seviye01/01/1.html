@@ -7,42 +7,54 @@
   <style>
     :root{font-family:system-ui,-apple-system,Segoe UI,Roboto,"Helvetica Neue",Arial;}
     body{display:flex;align-items:center;justify-content:center;min-height:100vh;margin:0;background:#f6f8fb;color:#0b2545}
-    .card{background:white;padding:28px;border-radius:14px;box-shadow:0 6px 28px rgba(11,37,69,0.08);max-width:520px;width:92%}
-    h1{margin:0 0 8px;font-size:20px}
-    p.meta{margin:6px 0;color:#36507a}
+    .card{background:white;padding:28px;border-radius:14px;box-shadow:0 6px 28px rgba(11,37,69,0.08);max-width:520px;width:92%;text-align:center}
+    h1{margin:0 0 12px;font-size:20px}
     .controls{display:flex;gap:12px;align-items:center;margin-top:18px}
-    button.play{padding:10px 16px;border-radius:10px;border:0;background:#0b6bff;color:white;font-weight:600;cursor:pointer}
-    button.play[aria-pressed="true"]{background:#0458d6}
-    audio{width:100%;margin-top:12px}
-    .note{margin-top:12px;font-size:13px;color:#556b86}
-    a.download{display:inline-block;margin-top:10px;padding:8px 12px;border-radius:8px;background:#eef6ff;color:#0b6bff;text-decoration:none}
+    button{padding:10px 14px;border-radius:10px;border:0;background:#0b6bff;color:white;font-weight:600;cursor:pointer}
+    button[aria-pressed="true"], button:active{background:#0458d6}
+    audio{display:none} /* Gizledik, kendi kontrollerimizi kullanıyoruz */
+    #progress{width:100%;margin-top:14px}
+    #time{margin-top:6px;font-size:14px;color:#36507a}
+    .copyright{margin-top:18px;font-size:12px;color:#556b86}
+    .notice{margin-top:4px;font-size:10px;color:#8892a6}
   </style>
 </head>
 <body>
   <div class="card">
 	   <h1>Ben Alp</h1>
-	
 
-    <!-- Audio element: dosya yolu buraya -->
+    <!-- Audio element -->
     <audio id="player" preload="metadata">
       <source src="./ses/1.mp3" type="audio/mpeg">
       Tarayıcınız ses elementini desteklemiyor veya dosya bulunamadı.
     </audio>
 
     <div class="controls">
+      <button id="backBtn">⏪ -10s</button>
       <button id="playBtn" class="play" aria-pressed="false">▶︎ Oynat</button>
-      <div style="flex:1">
-        <!-- Görsel kontrol: progress + süre -->
-        <div id="time">00:00 / 00:00</div>
-      </div>
+      <button id="fwdBtn">+10s ⏩</button>
     </div>
 
+    <!-- Progress bar -->
+    <input type="range" id="progress" value="0" min="0" max="100" step="0.1">
+    <div id="time">00:00 / 00:00</div>
+
+    <!-- Copyright -->
+    <div class="copyright">
+      © MEB YÜKSEKÖĞRETİM VE YURT DIŞI EĞİTİM GENEL MÜDÜRLÜĞÜ
     </div>
+    <div class="notice">
+      İzinsiz kopyalanamaz ve kullanılamaz.
+    </div>
+  </div>
 
   <script>
     const player = document.getElementById('player');
     const playBtn = document.getElementById('playBtn');
+    const backBtn = document.getElementById('backBtn');
+    const fwdBtn = document.getElementById('fwdBtn');
     const timeEl = document.getElementById('time');
+    const progress = document.getElementById('progress');
 
     function formatTime(t){
       if (isNaN(t)) return '00:00';
@@ -57,8 +69,10 @@
 
     player.addEventListener('timeupdate', ()=>{
       timeEl.textContent = `${formatTime(player.currentTime)} / ${formatTime(player.duration)}`;
+      progress.value = (player.currentTime / player.duration) * 100;
     });
 
+    // Play / pause
     playBtn.addEventListener('click', ()=>{
       if (player.paused){
         player.play();
@@ -71,7 +85,22 @@
       }
     });
 
-    // Klavye desteği: boşluk ile oynat/duraklat
+    // İleri ve geri sarma
+    backBtn.addEventListener('click', ()=>{
+      player.currentTime = Math.max(player.currentTime - 10, 0);
+    });
+    fwdBtn.addEventListener('click', ()=>{
+      player.currentTime = Math.min(player.currentTime + 10, player.duration);
+    });
+
+    // Progress bar ile sarma
+    progress.addEventListener('input', ()=>{
+      if (!isNaN(player.duration)){
+        player.currentTime = (progress.value / 100) * player.duration;
+      }
+    });
+
+    // Klavye desteği (boşluk ile oynat/duraklat)
     window.addEventListener('keydown', (e)=>{
       if (e.code === 'Space'){
         e.preventDefault();
