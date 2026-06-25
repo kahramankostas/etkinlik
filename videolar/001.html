@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Türk Kültüründe Yemek Kültürü ve İkramı</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #141414;
+            color: #fff;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 800px;
+            background: #1f1f1f;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+        }
+
+        .video-header {
+            padding: 20px;
+            background: #282828;
+            border-bottom: 1px solid #383838;
+            text-align: center;
+        }
+
+        .video-header h1 {
+            font-size: 1.5rem;
+            color: #e50914;
+            font-weight: 600;
+        }
+
+        .player-wrapper {
+            position: relative;
+            width: 100%;
+            padding-top: 56.25%; /* 16:9 Ekran Oranı */
+            background: #000;
+        }
+
+        .player-wrapper iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <!-- Başlık Bölümü -->
+        <div class="video-header">
+            <h1>Türk Kültüründe Yemek Kültürü ve İkramı</h1>
+        </div>
+
+        <!-- Video Alanı -->
+        <div class="player-wrapper">
+            <iframe 
+                src="https://drive.google.com/file/d/16_FNyUwrumLQLA4nIVkQ16l0PyfIe0Jt/preview" 
+                allow="autoplay; fullscreen"
+                allowfullscreen>
+            </iframe>
+        </div>
+    </div>
+
+</body>
+</html>
