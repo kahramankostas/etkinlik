@@ -1,0 +1,142 @@
+[
+  {
+    "baslik": "küçük dostlarım şarkı",
+    "tur": "Ses",
+    "sayfa": "1.html",
+    "dosya": "ses/1.mp3",
+    "orijinal_dosya": "küçük dostlarım şarkı.mpeg",
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/videolar/2027%20Etkinlik/seviye01/03/1.html",
+    "qr_png": "qr-kodlari/küçük dostlarım şarkı.png",
+    "qr_svg": "qr-kodlari/küçük dostlarım şarkı.svg"
+  },
+  {
+    "baslik": "ormanda yürüyoruz",
+    "tur": "Ses",
+    "sayfa": "2.html",
+    "dosya": "ses/2.mp3",
+    "orijinal_dosya": "ormanda yürüyoruz.mpeg",
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/videolar/2027%20Etkinlik/seviye01/03/2.html",
+    "qr_png": "qr-kodlari/ormanda yürüyoruz.png",
+    "qr_svg": "qr-kodlari/ormanda yürüyoruz.svg"
+  },
+  {
+    "baslik": "tren sesi",
+    "tur": "Ses",
+    "sayfa": "3.html",
+    "dosya": "ses/3.mp3",
+    "orijinal_dosya": "tren sesi.mpeg",
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/videolar/2027%20Etkinlik/seviye01/03/3.html",
+    "qr_png": "qr-kodlari/tren sesi.png",
+    "qr_svg": "qr-kodlari/tren sesi.svg"
+  },
+  {
+    "baslik": "uçak sesi",
+    "tur": "Ses",
+    "sayfa": "4.html",
+    "dosya": "ses/4.mp3",
+    "orijinal_dosya": "uçak sesi.mpeg",
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/videolar/2027%20Etkinlik/seviye01/03/4.html",
+    "qr_png": "qr-kodlari/uçak sesi.png",
+    "qr_svg": "qr-kodlari/uçak sesi.svg"
+  },
+  {
+    "baslik": "vapur sesi",
+    "tur": "Ses",
+    "sayfa": "5.html",
+    "dosya": "ses/5.mp3",
+    "orijinal_dosya": "vapur sesi.mpeg",
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/videolar/2027%20Etkinlik/seviye01/03/5.html",
+    "qr_png": "qr-kodlari/vapur sesi.png",
+    "qr_svg": "qr-kodlari/vapur sesi.svg"
+  },
+  {
+    "baslik": "çuf çuf çuf",
+    "tur": "Ses",
+    "sayfa": "6.html",
+    "dosya": "ses/6.m4a",
+    "orijinal_dosya": "çuf çuf çuf.m4a",
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/videolar/2027%20Etkinlik/seviye01/03/6.html",
+    "qr_png": "qr-kodlari/çuf çuf çuf.png",
+    "qr_svg": "qr-kodlari/çuf çuf çuf.svg"
+  },
+  {
+    "baslik": "bitkiler video",
+    "tur": "Video",
+    "sayfa": "7.html",
+    "dosya": "video/7.mp4",
+    "orijinal_dosya": "bitkiler video.mp4",
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/videolar/2027%20Etkinlik/seviye01/03/7.html",
+    "qr_png": "qr-kodlari/bitkiler video.png",
+    "qr_svg": "qr-kodlari/bitkiler video.svg"
+  },
+  {
+    "baslik": "hayvanlar video",
+    "tur": "Video",
+    "sayfa": "8.html",
+    "dosya": "video/8.mp4",
+    "orijinal_dosya": "hayvanlar video.mp4",
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/videolar/2027%20Etkinlik/seviye01/03/8.html",
+    "qr_png": "qr-kodlari/hayvanlar video.png",
+    "qr_svg": "qr-kodlari/hayvanlar video.svg"
+  },
+  {
+    "baslik": "hayvanları sayalım",
+    "tur": "Video",
+    "sayfa": "9.html",
+    "dosya": "video/9.mp4",
+    "orijinal_dosya": "hayvanları sayalım.mp4",
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/videolar/2027%20Etkinlik/seviye01/03/9.html",
+    "qr_png": "qr-kodlari/hayvanları sayalım.png",
+    "qr_svg": "qr-kodlari/hayvanları sayalım.svg"
+  },
+  {
+    "baslik": "Taşıtlar Video",
+    "tur": "Video",
+    "sayfa": "10.html",
+    "dosya": "video/10.mp4",
+    "orijinal_dosya": "Taşıtlar Video.mp4",
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/videolar/2027%20Etkinlik/seviye01/03/10.html",
+    "qr_png": "qr-kodlari/Taşıtlar Video.png",
+    "qr_svg": "qr-kodlari/Taşıtlar Video.svg"
+  },
+  {
+    "baslik": "Yemyeşil Ağaçlar",
+    "tur": "Video",
+    "sayfa": "11.html",
+    "dosya": "video/11.mp4",
+    "orijinal_dosya": "Yemyeşil Ağaçlar.mp4",
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/videolar/2027%20Etkinlik/seviye01/03/11.html",
+    "qr_png": "qr-kodlari/Yemyeşil Ağaçlar.png",
+    "qr_svg": "qr-kodlari/Yemyeşil Ağaçlar.svg"
+  },
+  {
+    "baslik": "Btkiler 3. Etkinlik",
+    "tur": "PDF",
+    "sayfa": "12.html",
+    "dosya": "pdf/12.pdf",
+    "orijinal_dosya": "Btkiler 3. Etkinlik.pdf",
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/videolar/2027%20Etkinlik/seviye01/03/12.html",
+    "qr_png": "qr-kodlari/Btkiler 3. Etkinlik.png",
+    "qr_svg": "qr-kodlari/Btkiler 3. Etkinlik.svg"
+  },
+  {
+    "baslik": "Taşıtlar 2. Etkinlik",
+    "tur": "PDF",
+    "sayfa": "13.html",
+    "dosya": "pdf/13.pdf",
+    "orijinal_dosya": "Taşıtlar 2. Etkinlik.pdf",
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/videolar/2027%20Etkinlik/seviye01/03/13.html",
+    "qr_png": "qr-kodlari/Taşıtlar 2. Etkinlik.png",
+    "qr_svg": "qr-kodlari/Taşıtlar 2. Etkinlik.svg"
+  },
+  {
+    "baslik": "Tema 3 Neler Öğrendik",
+    "tur": "PDF",
+    "sayfa": "14.html",
+    "dosya": "pdf/14.pdf",
+    "orijinal_dosya": "Tema 3 Neler Öğrendik.pdf",
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/videolar/2027%20Etkinlik/seviye01/03/14.html",
+    "qr_png": "qr-kodlari/Tema 3 Neler Öğrendik.png",
+    "qr_svg": "qr-kodlari/Tema 3 Neler Öğrendik.svg"
+  }
+]

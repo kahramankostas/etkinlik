@@ -1,0 +1,63 @@
+[
+  {
+    "tema": 6,
+    "konu": "ORMANDA SAKLAMBAÇ",
+    "etkinlik": "1. EK ETKİNLİK (YAPILACAK TOPRAK- TAŞ)",
+    "kitap_sayfasi": 19,
+    "qr_no": 25,
+    "pdf_sayfasi": 1,
+    "baslik": "1. EK ETKİNLİK (YAPILACAK TOPRAK- TAŞ)",
+    "tur": "PDF",
+    "sayfa": "25.html",
+    "dosya": "pdf/ekler.pdf",
+    "orijinal_dosya": "3. SEVİYE 6. TEMA-EKLER.pdf",
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/videolar/2027%20Etkinlik/seviye03/06/25.html",
+    "qr_png": "qr-kodlari/3. SEVİYE 6. TEMA-EKLER - QR 25 - 1. EK ETKİNLİK (YAPILACAK TOPRAK- TAŞ).png",
+    "qr_svg": "qr-kodlari/3. SEVİYE 6. TEMA-EKLER - QR 25 - 1. EK ETKİNLİK (YAPILACAK TOPRAK- TAŞ).svg"
+  },
+  {
+    "tema": 6,
+    "konu": "HER ZAMAN OYUN",
+    "etkinlik": "4. ETKİNLİK ( BEŞ TAŞ VİDESOSU)",
+    "kitap_sayfasi": 7,
+    "qr_no": 56,
+    "baslik": "beştaş 6. TEMA 7. SAYFA",
+    "tur": "Video",
+    "sayfa": "56.html",
+    "dosya": "video/56.mp4",
+    "orijinal_dosya": "beştaş 6. TEMA 7. SAYFA.mp4",
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/videolar/2027%20Etkinlik/seviye03/06/56.html",
+    "qr_png": "qr-kodlari/beştaş 6. TEMA 7. SAYFA.png",
+    "qr_svg": "qr-kodlari/beştaş 6. TEMA 7. SAYFA.svg"
+  },
+  {
+    "tema": 6,
+    "konu": "ORYANTRİNG NE GÜZEL BİR SPOR",
+    "etkinlik": "HAYDİ İZLEYELİM ( ORYANTİRİNG VİDEOSU)",
+    "kitap_sayfasi": 23,
+    "qr_no": 57,
+    "baslik": "oryantiring 6. TEMA 23 . SAYFA",
+    "tur": "Video",
+    "sayfa": "57.html",
+    "dosya": "video/57.mp4",
+    "orijinal_dosya": "oryantiring 6. TEMA 23 . SAYFA.mp4",
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/videolar/2027%20Etkinlik/seviye03/06/57.html",
+    "qr_png": "qr-kodlari/oryantiring 6. TEMA 23 . SAYFA.png",
+    "qr_svg": "qr-kodlari/oryantiring 6. TEMA 23 . SAYFA.svg"
+  },
+  {
+    "tema": 6,
+    "konu": "ORYANTRİNG NE GÜZEL BİR SPOR",
+    "etkinlik": "NELER ÖĞRENDİK ( TOLGA HOCANIN ŞİİRİ)",
+    "kitap_sayfasi": 29,
+    "qr_no": 58,
+    "baslik": "tolga  hoca şiiri 6. tema 29. sayfa",
+    "tur": "Ses",
+    "sayfa": "58.html",
+    "dosya": "ses/58.mp3",
+    "orijinal_dosya": "tolga  hoca şiiri 6. tema 29. sayfa.mpeg",
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/videolar/2027%20Etkinlik/seviye03/06/58.html",
+    "qr_png": "qr-kodlari/tolga  hoca şiiri 6. tema 29. sayfa.png",
+    "qr_svg": "qr-kodlari/tolga  hoca şiiri 6. tema 29. sayfa.svg"
+  }
+]

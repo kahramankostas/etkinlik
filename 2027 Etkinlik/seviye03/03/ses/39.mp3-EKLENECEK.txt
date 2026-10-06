@@ -1,0 +1,4 @@
+Kaynak: Neler öğrendik 3 Tema 30. sayfa.mpeg
+Ses dosyasını bu klasöre 39.mp3 adıyla ekleyin.
+Etkinlik: ../39.html
+Dosya eklendikten sonra bu not kaldırılabilir.

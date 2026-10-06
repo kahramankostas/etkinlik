@@ -1,0 +1,4 @@
+Kaynak: Hava durumu şarkısı.(3.TEMA VE 10. SAYFA).mpeg
+Ses dosyasını bu klasöre 36.mp3 adıyla ekleyin.
+Etkinlik: ../36.html
+Dosya eklendikten sonra bu not kaldırılabilir.
