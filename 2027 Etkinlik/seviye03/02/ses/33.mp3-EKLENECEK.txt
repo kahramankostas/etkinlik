@@ -1,4 +1,0 @@
-Kaynak: Şen bakkal komşularını tanıtıyor (2. tema ve 28. sayfa).mpeg
-Ses dosyasını bu klasöre 33.mp3 adıyla ekleyin.
-Etkinlik: ../33.html
-Dosya eklendikten sonra bu not kaldırılabilir.

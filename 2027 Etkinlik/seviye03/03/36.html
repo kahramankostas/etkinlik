@@ -23,7 +23,6 @@
   <div class="card">
 	   <h1>Hava durumu şarkısı.(3.TEMA VE 10. SAYFA)</h1>
 
-    <p id="audio-status" role="status" hidden>Ses dosyası henüz eklenmedi.</p>
     <!-- Audio element -->
     <audio id="player" preload="metadata">
       <source src="./ses/36.mp3" type="audio/mpeg">
@@ -73,7 +72,6 @@
       progress.value = (player.currentTime / player.duration) * 100;
     });
 
-    player.querySelector('source').addEventListener('error', () => { document.getElementById('audio-status').hidden = false; playBtn.disabled = true; });
     // Play / pause
     playBtn.addEventListener('click', ()=>{
       if (player.paused){

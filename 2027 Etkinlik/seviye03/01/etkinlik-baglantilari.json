@@ -101,14 +101,15 @@
     "etkinlik": "HAYDİ İZLEYELİM",
     "kitap_sayfasi": 4,
     "qr_no": 26,
-    "baslik": "müzik kursunda ilk gün (1. tema 4.sayfa)",
-    "tur": "Ses",
+    "baslik": "Müzik Kursunda İlk Gün videosu 1. Tema 4. sayfa",
+    "tur": "Video",
     "sayfa": "26.html",
-    "dosya": "ses/26.mp3",
-    "orijinal_dosya": "müzik kursunda ilk gün (1. tema 4.sayfa).mpeg",
+    "dosya": "video/26.mp4",
+    "orijinal_dosya": "Müzik Kursunda İlk Gün videosu 1. Tema 4. sayfa.mp4",
     "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye03/01/26.html",
-    "qr_png": "qr-kodlari/müzik kursunda ilk gün (1. tema 4.sayfa).png",
-    "qr_svg": "qr-kodlari/müzik kursunda ilk gün (1. tema 4.sayfa).svg"
+    "qr_png": "qr-kodlari/Müzik Kursunda İlk Gün videosu 1. Tema 4. sayfa.png",
+    "qr_svg": "qr-kodlari/Müzik Kursunda İlk Gün videosu 1. Tema 4. sayfa.svg",
+    "onceki_ses_dosyasi": "ses/26.mp3"
   },
   {
     "tema": 1,

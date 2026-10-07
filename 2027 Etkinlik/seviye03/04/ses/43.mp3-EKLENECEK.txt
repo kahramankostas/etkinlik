@@ -1,4 +1,0 @@
-Kaynak: 3.seviye 4.tema Hacivat karagöz 22. SAYFA.mpeg
-Ses dosyasını bu klasöre 43.mp3 adıyla ekleyin.
-Etkinlik: ../43.html
-Dosya eklendikten sonra bu not kaldırılabilir.

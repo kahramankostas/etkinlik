@@ -1,18 +1,1 @@
-QR 15 (Püsküllü) ve QR 16 (Aslan Ağzı) kullanıcı isteğiyle kapsam dışıdır.
-
-Sonradan eklenecek ses dosyaları:
-Şen bakkal komşularını tanıtıyor (2. tema ve 28. sayfa).mpeg
-Hedef: 02/ses/33.mp3
-Sayfa ve QR hazır.
-
-Hava durumu şarkısı.(3.TEMA VE 10. SAYFA).mpeg
-Hedef: 03/ses/36.mp3
-Sayfa ve QR hazır.
-
-Neler öğrendik 3 Tema 30. sayfa.mpeg
-Hedef: 03/ses/39.mp3
-Sayfa ve QR hazır.
-
-3.seviye 4.tema Hacivat karagöz 22. SAYFA.mpeg
-Hedef: 04/ses/43.mp3
-Sayfa ve QR hazır.
+7 Ekim 2026: Listelenen 58 etkinliğin tüm içerikleri eklendi. Bekleyen materyal yok.
