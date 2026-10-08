@@ -2,14 +2,11 @@
   {
     "tema": 1,
     "baslik": "1. Ek Etkinlik",
-    "tur": "Bekleniyor",
+    "tur": "PDF",
     "sayfa": "1.html",
-    "dosya": "belgeler/1.docx",
-    "orijinal_dosya": "1. Ek Etkinlik.docx",
-    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye04/01/1.html",
-    "qr_png": "qr-kodlari/1. Ek Etkinlik.png",
-    "qr_svg": "qr-kodlari/1. Ek Etkinlik.svg",
-    "durum": "Kaynak Word dosyası 0 bayt; içerik bekleniyor"
+    "dosya": "pdf/1. Ek Etkinlik.pdf",
+    "orijinal_dosya": "1. Ek Etkinlik.pdf",
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye04/01/1.html"
   },
   {
     "tema": 1,
@@ -18,9 +15,7 @@
     "sayfa": "2.html",
     "dosya": "ses/2.mp3",
     "orijinal_dosya": "1. Tema Ailemizin zaman makinesi.mpeg",
-    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye04/01/2.html",
-    "qr_png": "qr-kodlari/1. Tema Ailemizin zaman makinesi.png",
-    "qr_svg": "qr-kodlari/1. Tema Ailemizin zaman makinesi.svg"
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye04/01/2.html"
   },
   {
     "tema": 1,
@@ -29,9 +24,7 @@
     "sayfa": "3.html",
     "dosya": "ses/3.mp3",
     "orijinal_dosya": "1.Tema Evin Süper Kahramanı şarkı.mpeg",
-    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye04/01/3.html",
-    "qr_png": "qr-kodlari/1.Tema Evin Süper Kahramanı şarkı.png",
-    "qr_svg": "qr-kodlari/1.Tema Evin Süper Kahramanı şarkı.svg"
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye04/01/3.html"
   },
   {
     "tema": 1,
@@ -40,56 +33,42 @@
     "sayfa": "4.html",
     "dosya": "ses/4.mp3",
     "orijinal_dosya": "1.Tema Kendimizi değerlendirelim.mp3.mpeg",
-    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye04/01/4.html",
-    "qr_png": "qr-kodlari/1.Tema Kendimizi değerlendirelim.png",
-    "qr_svg": "qr-kodlari/1.Tema Kendimizi değerlendirelim.svg"
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye04/01/4.html"
   },
   {
     "tema": 1,
     "baslik": "2. Ek Etkinlik",
-    "tur": "Bekleniyor",
+    "tur": "PDF",
     "sayfa": "5.html",
-    "dosya": "belgeler/5.docx",
-    "orijinal_dosya": "2. Ek Etkinlik.docx",
-    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye04/01/5.html",
-    "qr_png": "qr-kodlari/2. Ek Etkinlik.png",
-    "qr_svg": "qr-kodlari/2. Ek Etkinlik.svg",
-    "durum": "Kaynak Word dosyası 0 bayt; içerik bekleniyor"
+    "dosya": "pdf/2. Ek Etkinlik.pdf",
+    "orijinal_dosya": "2. Ek Etkinlik.pdf",
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye04/01/5.html"
   },
   {
     "tema": 1,
     "baslik": "3. Ek Etkinlik",
-    "tur": "Bekleniyor",
+    "tur": "PDF",
     "sayfa": "6.html",
-    "dosya": "belgeler/6.docx",
-    "orijinal_dosya": "3. Ek Etkinlik.docx",
-    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye04/01/6.html",
-    "qr_png": "qr-kodlari/3. Ek Etkinlik.png",
-    "qr_svg": "qr-kodlari/3. Ek Etkinlik.svg",
-    "durum": "Kaynak Word dosyası 0 bayt; içerik bekleniyor"
+    "dosya": "pdf/Ek Etkinlik.pdf",
+    "orijinal_dosya": "Ek Etkinlik.pdf",
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye04/01/6.html"
   },
   {
     "tema": 1,
     "baslik": "4. Ek Etkinlik",
-    "tur": "Bekleniyor",
+    "tur": "PDF",
     "sayfa": "7.html",
-    "dosya": "belgeler/7.docx",
-    "orijinal_dosya": "4. Ek Etkinlik.docx",
-    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye04/01/7.html",
-    "qr_png": "qr-kodlari/4. Ek Etkinlik.png",
-    "qr_svg": "qr-kodlari/4. Ek Etkinlik.svg",
-    "durum": "Kaynak Word dosyası 0 bayt; içerik bekleniyor"
+    "dosya": "pdf/4. Ek Etkinlik.pdf",
+    "orijinal_dosya": "4. Ek Etkinlik.pdf",
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye04/01/7.html"
   },
   {
     "tema": 1,
     "baslik": "Tasarım Atölyesi",
-    "tur": "Bekleniyor",
+    "tur": "PDF",
     "sayfa": "8.html",
-    "dosya": "belgeler/8.docx",
-    "orijinal_dosya": "Tasarım Atölyesi.docx",
-    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye04/01/8.html",
-    "qr_png": "qr-kodlari/Tasarım Atölyesi.png",
-    "qr_svg": "qr-kodlari/Tasarım Atölyesi.svg",
-    "durum": "Kaynak Word dosyası 0 bayt; içerik bekleniyor"
+    "dosya": "pdf/Tasarim Atolyesi.pdf",
+    "orijinal_dosya": "Tasarim Atolyesi.pdf",
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye04/01/8.html"
   }
 ]
