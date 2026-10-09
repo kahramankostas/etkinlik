@@ -1,0 +1,56 @@
+[
+  {
+    "tema": 1,
+    "baslik": "Sayfa 19 - Dinleme Metni - Zaman Tünelinde Zıpla",
+    "tur": "Ses",
+    "sayfa": "1.html",
+    "dosya": "ses/1.mp3",
+    "orijinal_dosya": "Sayfa 19 - Dinleme Metni - Zaman Tünelinde Zıpla.mpeg",
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye05/01/1.html"
+  },
+  {
+    "tema": 1,
+    "baslik": "Sayfa 20 - Dinleme Metni - Zaman Tüneli",
+    "tur": "Ses",
+    "sayfa": "2.html",
+    "dosya": "ses/2.mp3",
+    "orijinal_dosya": "Sayfa 20 - Dinleme Metni - Zaman Tüneli.mpeg",
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye05/01/2.html"
+  },
+  {
+    "tema": 1,
+    "baslik": "Sayfa 28 - Dinleme Metni - Evde Sorumlulukları Paylaşıyoruz",
+    "tur": "Ses",
+    "sayfa": "3.html",
+    "dosya": "ses/3.mp3",
+    "orijinal_dosya": "Sayfa 28 - Dinleme Metni - Evde Sorumlulukları Paylaşıyoruz.mp3",
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye05/01/3.html"
+  },
+  {
+    "tema": 1,
+    "baslik": "Ek Etkinlik 1",
+    "tur": "PDF",
+    "sayfa": "4.html",
+    "dosya": "pdf/4.pdf",
+    "orijinal_dosya": "Ek Etkinlik 1.pdf",
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye05/01/4.html"
+  },
+  {
+    "tema": 1,
+    "baslik": "Ek Etkinlik 2",
+    "tur": "PDF",
+    "sayfa": "5.html",
+    "dosya": "pdf/5.pdf",
+    "orijinal_dosya": "Ek Etkinlik 2.pdf",
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye05/01/5.html"
+  },
+  {
+    "tema": 1,
+    "baslik": "Ek Etkinlik 3",
+    "tur": "PDF",
+    "sayfa": "6.html",
+    "dosya": "pdf/6.pdf",
+    "orijinal_dosya": "Ek Etkinlik 3.pdf",
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye05/01/6.html"
+  }
+]
