@@ -20,11 +20,10 @@
   {
     "tema": 3,
     "baslik": "Festivaller Haydi Hazırlanalım",
-    "tur": "Bekleniyor",
+    "tur": "PDF",
     "sayfa": "3.html",
-    "dosya": "belgeler/3.docx",
-    "orijinal_dosya": "Festivaller Haydi Hazırlanalım.docx",
-    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye05/03/3.html",
-    "durum": "İçerik sonradan eklenecek"
+    "dosya": "pdf/3.pdf",
+    "orijinal_dosya": "etkinlikfestival.pdf",
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye05/03/3.html"
   }
 ]
