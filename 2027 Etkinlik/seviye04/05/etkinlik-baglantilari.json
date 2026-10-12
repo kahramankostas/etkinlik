@@ -23,14 +23,11 @@
   {
     "tema": 5,
     "baslik": "5. Tema 3. Etkinlik Dokuma Fabrikası",
-    "tur": "Bağlantı",
+    "tur": "Video",
     "sayfa": "3.html",
-    "dosya": "belgeler/3.docx",
-    "orijinal_dosya": "5. Tema 3. Etkinlik Dokuma Fabrikası.docx",
-    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye04/05/3.html",
-    "dis_baglantilar": [
-      "https://www.youtube.com/watch?v=rhkBe6kC5L8"
-    ]
+    "dosya": "video/3.mp4",
+    "orijinal_dosya": "5. Tema 3. Etkinlik Dokuma Fabrikası.mp4",
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye04/05/3.html"
   },
   {
     "tema": 5,

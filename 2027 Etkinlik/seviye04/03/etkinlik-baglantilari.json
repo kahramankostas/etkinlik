@@ -83,14 +83,11 @@
   {
     "tema": 3,
     "baslik": "Sıla Yolu 10. Etkinlik Nane Limon Kabuğu şarkısı",
-    "tur": "Bağlantı",
+    "tur": "Video",
     "sayfa": "9.html",
-    "dosya": "belgeler/9.docx",
-    "orijinal_dosya": "Sıla Yolu 10. Etkinlik Nane Limon Kabuğu şarkısı.docx",
-    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye04/03/9.html",
-    "dis_baglantilar": [
-      "https://www.youtube.com/watch?v=nNNGILhJEgM"
-    ]
+    "dosya": "video/9.mp4",
+    "orijinal_dosya": "Sıla Yolu 10. Etkinlik Nane Limon Kabuğu şarkısı.mp4",
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye04/03/9.html"
   },
   {
     "tema": 3,
