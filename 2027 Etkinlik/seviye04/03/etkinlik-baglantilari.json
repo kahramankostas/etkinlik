@@ -1,7 +1,7 @@
 [
   {
     "tema": 3,
-    "baslik": "3. tema 6. etkinlik Cumhurbaşkanlığı Külliyesi sanal gezi",
+    "baslik": "4. Seviye 3. Tema 6. Etkinlik Cumhurbaşkanlığı Külliyesi Sanal Gezi",
     "tur": "Bağlantı",
     "sayfa": "1.html",
     "dosya": "belgeler/1.docx",
@@ -13,7 +13,7 @@
   },
   {
     "tema": 3,
-    "baslik": "3. tema 6. etkinlik TBMM sanal gezi",
+    "baslik": "4. Seviye 3. Tema 6. Etkinlik TBMM Sanal Gezi",
     "tur": "Bağlantı",
     "sayfa": "2.html",
     "dosya": "belgeler/2.docx",
@@ -25,7 +25,7 @@
   },
   {
     "tema": 3,
-    "baslik": "3. Tema Anadolu Medeniyetleri Müzesi Sanal Tur",
+    "baslik": "4. Seviye 3. Tema Anadolu Medeniyetleri Müzesi Sanal Tur",
     "tur": "Bağlantı",
     "sayfa": "3.html",
     "dosya": "belgeler/3.docx",
@@ -37,7 +37,7 @@
   },
   {
     "tema": 3,
-    "baslik": "3. Tema Gurbet-Özdemir Erdoğan",
+    "baslik": "4. Seviye 3. Tema Özdemir Erdoğan ‘’Gurbet’’ Şarkısı",
     "tur": "Video",
     "sayfa": "4.html",
     "dosya": "video/4.mp4",
@@ -46,7 +46,7 @@
   },
   {
     "tema": 3,
-    "baslik": "3. Tema Haydi Hazırlanalım Anıtkabir videosu",
+    "baslik": "4. Seviye 3. Tema Haydi Hazırlanalım ‘’Anıtkabir’’ Videosu",
     "tur": "Video",
     "sayfa": "5.html",
     "dosya": "video/5.mp4",
@@ -55,7 +55,7 @@
   },
   {
     "tema": 3,
-    "baslik": "3. Tema Tasarım Atölyesi",
+    "baslik": "4. Seviye 3. Tema Tasarım Atölyesi",
     "tur": "PDF",
     "sayfa": "6.html",
     "dosya": "pdf/3. Tema Tasarım Atölyesi.pdf",
@@ -64,7 +64,7 @@
   },
   {
     "tema": 3,
-    "baslik": "3.Tema Kendimizi Değerlendirelim",
+    "baslik": "4. Seviye 3. Tema Kendimizi Değerlendirelim Dinleme Metni",
     "tur": "Ses",
     "sayfa": "7.html",
     "dosya": "ses/7.mp3",
@@ -73,7 +73,7 @@
   },
   {
     "tema": 3,
-    "baslik": "5. Etkinlik On Saniyede Cümle Kur Sözcük Listesi",
+    "baslik": "4. Seviye 3. Tema 5. Etkinlik On Saniyede Cümle Kur Sözcük Listesi",
     "tur": "PDF",
     "sayfa": "8.html",
     "dosya": "pdf/5. Etkinlik On Saniyede Cümle Kur Sözcük Listesi.pdf",
@@ -82,7 +82,7 @@
   },
   {
     "tema": 3,
-    "baslik": "Sıla Yolu 10. Etkinlik Nane Limon Kabuğu şarkısı",
+    "baslik": "4. Seviye 3. Tema 10. Etkinlik ‘’Nane Limon Kabuğu’’ Şarkısı",
     "tur": "Video",
     "sayfa": "9.html",
     "dosya": "video/9.mp4",
@@ -91,7 +91,7 @@
   },
   {
     "tema": 3,
-    "baslik": "sıla yolu 8. etkinlik memleketim şarkısı",
+    "baslik": "4. Seviye 3. Tema Sıla Yolu 8. Etkinlik ‘’Memleketim’’ Şarkısı",
     "tur": "Bağlantı",
     "sayfa": "10.html",
     "dosya": "belgeler/10.docx",
@@ -103,12 +103,11 @@
   },
   {
     "tema": 3,
-    "baslik": "Sıla Yolu videosu",
-    "tur": "Bekleniyor",
+    "baslik": "4. Seviye 3. Tema ‘’Sıla Yolu’’ Videosu",
+    "tur": "Video",
     "sayfa": "11.html",
-    "dosya": "belgeler/11.docx",
-    "orijinal_dosya": "Sıla Yolu videosu.docx",
-    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye04/03/11.html",
-    "durum": "Kaynak Word dosyası 0 bayt; içerik bekleniyor"
+    "dosya": "video/11.mp4",
+    "orijinal_dosya": "WhatsApp Video 2026-10-12 at 15.24.mp4",
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye04/03/11.html"
   }
 ]

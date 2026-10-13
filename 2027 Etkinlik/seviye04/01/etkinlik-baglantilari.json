@@ -1,7 +1,7 @@
 [
   {
     "tema": 1,
-    "baslik": "1. Ek Etkinlik",
+    "baslik": "4. Seviye 1. Tema 1. Ek Etkinlik",
     "tur": "PDF",
     "sayfa": "1.html",
     "dosya": "pdf/1. Ek Etkinlik.pdf",
@@ -10,7 +10,7 @@
   },
   {
     "tema": 1,
-    "baslik": "1. Tema Ailemizin zaman makinesi",
+    "baslik": "4. Seviye 1. Tema ‘’Ailemizin Zaman Makinesi’’ Dinleme Metni",
     "tur": "Ses",
     "sayfa": "2.html",
     "dosya": "ses/2.mp3",
@@ -19,7 +19,7 @@
   },
   {
     "tema": 1,
-    "baslik": "1.Tema Evin Süper Kahramanı şarkı",
+    "baslik": "4. Seviye 1. Tema ‘’Evin Süper Kahramanı’’ Şarkısı",
     "tur": "Ses",
     "sayfa": "3.html",
     "dosya": "ses/3.mp3",
@@ -28,7 +28,7 @@
   },
   {
     "tema": 1,
-    "baslik": "1.Tema Kendimizi değerlendirelim",
+    "baslik": "4. Seviye 1. Tema Kendimizi Değerlendirelim Dinleme Metni",
     "tur": "Ses",
     "sayfa": "4.html",
     "dosya": "ses/4.mp3",
@@ -37,7 +37,7 @@
   },
   {
     "tema": 1,
-    "baslik": "2. Ek Etkinlik",
+    "baslik": "4. Seviye 1. Tema 2. Ek Etkinlik",
     "tur": "PDF",
     "sayfa": "5.html",
     "dosya": "pdf/2. Ek Etkinlik.pdf",
@@ -46,7 +46,7 @@
   },
   {
     "tema": 1,
-    "baslik": "3. Ek Etkinlik",
+    "baslik": "4. Seviye 1. Tema 3. Ek Etkinlik",
     "tur": "PDF",
     "sayfa": "6.html",
     "dosya": "pdf/Ek Etkinlik.pdf",
@@ -55,7 +55,7 @@
   },
   {
     "tema": 1,
-    "baslik": "4. Ek Etkinlik",
+    "baslik": "4. Seviye 1. Tema 4. Ek Etkinlik",
     "tur": "PDF",
     "sayfa": "7.html",
     "dosya": "pdf/4. Ek Etkinlik.pdf",
@@ -64,7 +64,7 @@
   },
   {
     "tema": 1,
-    "baslik": "Tasarım Atölyesi",
+    "baslik": "4. Seviye 1. Tasarım Atölyesi",
     "tur": "PDF",
     "sayfa": "8.html",
     "dosya": "pdf/Tasarim Atolyesi.pdf",

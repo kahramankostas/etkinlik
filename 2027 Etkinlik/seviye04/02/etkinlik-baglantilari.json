@@ -1,7 +1,7 @@
 [
   {
     "tema": 2,
-    "baslik": "2. Teema Tasarım Atölyesi",
+    "baslik": "4. Seviye 2. Tema Tasarım Atölyesi",
     "tur": "PDF",
     "sayfa": "1.html",
     "dosya": "pdf/2. Teema Tasarım Atölyesi.pdf",
@@ -10,7 +10,7 @@
   },
   {
     "tema": 2,
-    "baslik": "2. Tema 1. Ek Etkinlik",
+    "baslik": "4. Seviye 2. Tema 1. Ek Etkinlik",
     "tur": "PDF",
     "sayfa": "2.html",
     "dosya": "pdf/2. Tema 1. Ek Etkinlik.pdf",
@@ -19,7 +19,7 @@
   },
   {
     "tema": 2,
-    "baslik": "2. Tema Benim Rengim Şarkısı",
+    "baslik": "4. Seviye 2. Tema ‘’Benim Rengim’’ Şarkısı",
     "tur": "Ses",
     "sayfa": "3.html",
     "dosya": "ses/3.mp3",
@@ -28,7 +28,7 @@
   },
   {
     "tema": 2,
-    "baslik": "2. Tema iletişim kuralları NAZİK OLMAK ÇOK GÜZEL şarkı",
+    "baslik": "4. Seviye 2. Tema İletişim Kuralları ‘’Nazik Olmak Çok Güzel’’ Şarkısı",
     "tur": "Ses",
     "sayfa": "4.html",
     "dosya": "ses/4.mp3",
@@ -37,7 +37,7 @@
   },
   {
     "tema": 2,
-    "baslik": "2.tema farklılıklara saygı",
+    "baslik": "4. Seviye 2. Tema Farklı Kültürler- Farklılıklara Saygı",
     "tur": "Video",
     "sayfa": "5.html",
     "dosya": "video/5.mp4",
@@ -46,7 +46,7 @@
   },
   {
     "tema": 2,
-    "baslik": "2.Tema Kendimizi değerlendirelim",
+    "baslik": "4. Seviye 2. Tema Kendimizi Değerlendirelim Dinleme Metni",
     "tur": "Ses",
     "sayfa": "6.html",
     "dosya": "ses/6.mp3",
@@ -55,7 +55,7 @@
   },
   {
     "tema": 2,
-    "baslik": "Proje Sözcük Müzesi",
+    "baslik": "4. Seviye 2. Tema Proje ‘’Sözcük Müzesi’’",
     "tur": "PDF",
     "sayfa": "7.html",
     "dosya": "pdf/Proje Sözcük Müzesi.pdf",
@@ -64,7 +64,7 @@
   },
   {
     "tema": 2,
-    "baslik": "Çark Yapımı",
+    "baslik": "4. Seviye 2. Tema Çark Yapımı",
     "tur": "PDF",
     "sayfa": "8.html",
     "dosya": "pdf/Çark Yapımı.pdf",

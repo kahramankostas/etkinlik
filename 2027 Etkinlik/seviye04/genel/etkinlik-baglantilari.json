@@ -1,15 +1,11 @@
 [
   {
     "baslik": "Genel Ağ ve Görsel Kaynakça",
-    "tur": "Belge",
+    "tur": "PDF",
     "sayfa": "1.html",
-    "dosya": "belgeler/1.docx",
-    "orijinal_dosya": "4. SEVİYE GENEL AĞ KAYNAKÇASI.docx",
-    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye04/genel/1.html",
-    "dosyalar": [
-      "belgeler/1.docx",
-      "belgeler/4.docx"
-    ]
+    "dosya": "pdf/1.pdf",
+    "orijinal_dosya": "Genel Ag ve Gorsel Kaynakca (1).pdf",
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye04/genel/1.html"
   },
   {
     "baslik": "İçindekiler",
@@ -29,14 +25,10 @@
   },
   {
     "baslik": "Genel Ağ ve Görsel Kaynakça",
-    "tur": "Belge",
+    "tur": "PDF",
     "sayfa": "4.html",
-    "dosya": "belgeler/4.docx",
-    "orijinal_dosya": "4. SEVİYE GÖRSEL KAYNAKÇA.docx",
-    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye04/genel/4.html",
-    "dosyalar": [
-      "belgeler/1.docx",
-      "belgeler/4.docx"
-    ]
+    "dosya": "pdf/1.pdf",
+    "orijinal_dosya": "Genel Ag ve Gorsel Kaynakca (1).pdf",
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye04/genel/4.html"
   }
 ]
