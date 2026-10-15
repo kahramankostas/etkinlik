@@ -20,22 +20,23 @@
   {
     "tema": 6,
     "baslik": "1. METİN 5. ETKİNLİK B BÖLÜMÜ-OYUNCAK MÜZESİ SANAL GEZİ",
-    "tur": "Bekleniyor",
+    "tur": "Bağlantı",
     "sayfa": "3.html",
     "dosya": "belgeler/3.docx",
-    "orijinal_dosya": "1. METİN 5. ETKİNLİK B BÖLÜMÜ-OYUNCAK MÜZESİ SANAL GEZİ.docx",
+    "orijinal_dosya": "6. Tema-155. sayfa- Oyuncak Müzesi.docx",
     "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye06/06/3.html",
-    "durum": "İçerik sonradan eklenecek"
+    "dis_baglantilar": [
+      "https://fromhome.turkishmuseums.com/museums/childish/"
+    ]
   },
   {
     "tema": 6,
     "baslik": "2. METİN 3. ETKİNLİK-SESSİZ SİNEMA KARTLARI",
-    "tur": "Bekleniyor",
+    "tur": "PDF",
     "sayfa": "4.html",
-    "dosya": "belgeler/4.docx",
-    "orijinal_dosya": "2. METİN 3. ETKİNLİK-SESSİZ SİNEMA KARTLARI.docx",
-    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye06/06/4.html",
-    "durum": "İçerik sonradan eklenecek"
+    "dosya": "pdf/4.pdf",
+    "orijinal_dosya": "Tema 6- 164. sayfa-Sessiz Sinema Kartları.pdf",
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye06/06/4.html"
   },
   {
     "tema": 6,

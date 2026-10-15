@@ -57,22 +57,47 @@
   {
     "tema": 5,
     "baslik": "3. Metin 4. Etkinlik-GESİ BAĞLARI",
-    "tur": "Bekleniyor",
+    "tur": "Ses",
     "sayfa": "7.html",
-    "dosya": "belgeler/7.docx",
-    "orijinal_dosya": "3. Metin 4. Etkinlik-GESİ BAĞLARI.docx",
-    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye06/05/7.html",
-    "durum": "İçerik sonradan eklenecek"
+    "dosya": "ses/7.mp3",
+    "orijinal_dosya": "6. Tema 142. sayfa-Gesi Bağları.mp3",
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye06/05/7.html"
   },
   {
     "tema": 5,
     "baslik": "3. Metin 5. Etkinlik-KARAOKE",
-    "tur": "Bekleniyor",
+    "tur": "Video",
     "sayfa": "8.html",
-    "dosya": "belgeler/8.docx",
-    "orijinal_dosya": "3. Metin 5. Etkinlik-KARAOKE.docx",
+    "dosya": "video/8-1.mp4",
+    "orijinal_dosya": "5. Tema 143. sayfa-Canakkale_Turkusu_Karaoke.mp4; 5. Tema 143. sayfa-Cayda_Cira_Karaoke.mp4; 5. Tema 143. sayfa-Gesi_Baglari_Karaoke_v4.mp4; 5. Tema 143. sayfa-Silifkenin_Yogurdu_Karaoke.mp4; 5. Tema 143. sayfa-Uzun_Ince_Bir_Yoldayim_Karaoke (1).mp4",
     "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye06/05/8.html",
-    "durum": "İçerik sonradan eklenecek"
+    "dosyalar": [
+      {
+        "baslik": "Çanakkale Türküsü",
+        "dosya": "video/8-1.mp4",
+        "orijinal_dosya": "5. Tema 143. sayfa-Canakkale_Turkusu_Karaoke.mp4"
+      },
+      {
+        "baslik": "Çayda Çıra",
+        "dosya": "video/8-2.mp4",
+        "orijinal_dosya": "5. Tema 143. sayfa-Cayda_Cira_Karaoke.mp4"
+      },
+      {
+        "baslik": "Gesi Bağları",
+        "dosya": "video/8-3.mp4",
+        "orijinal_dosya": "5. Tema 143. sayfa-Gesi_Baglari_Karaoke_v4.mp4"
+      },
+      {
+        "baslik": "Silifke’nin Yoğurdu",
+        "dosya": "video/8-4.mp4",
+        "orijinal_dosya": "5. Tema 143. sayfa-Silifkenin_Yogurdu_Karaoke.mp4"
+      },
+      {
+        "baslik": "Uzun İnce Bir Yoldayım",
+        "dosya": "video/8-5.mp4",
+        "orijinal_dosya": "5. Tema 143. sayfa-Uzun_Ince_Bir_Yoldayim_Karaoke (1).mp4"
+      }
+    ]
   },
   {
     "tema": 5,
@@ -86,12 +111,11 @@
   {
     "tema": 5,
     "baslik": "3. Metin Hazırlık Bölümü- Karşıya Çifte Çamlar",
-    "tur": "Bekleniyor",
+    "tur": "Ses",
     "sayfa": "10.html",
-    "dosya": "belgeler/10.docx",
-    "orijinal_dosya": "3. Metin Hazırlık Bölümü- Karşıya Çifte Çamlar.docx",
-    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye06/05/10.html",
-    "durum": "İçerik sonradan eklenecek"
+    "dosya": "ses/10.mp3",
+    "orijinal_dosya": "6. Tema 137. sayfa-Karşıya Çifte Çamlar.mp3",
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye06/05/10.html"
   },
   {
     "tema": 5,
