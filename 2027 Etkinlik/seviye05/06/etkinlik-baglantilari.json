@@ -1,7 +1,7 @@
 [
   {
     "tema": 6,
-    "baslik": "Sayfa 177 - Dinleme Metni - Hayat Bayram Olsa",
+    "baslik": "Hayat Bayram Olsa",
     "tur": "Ses",
     "sayfa": "1.html",
     "dosya": "ses/1.mp3",
@@ -10,7 +10,7 @@
   },
   {
     "tema": 6,
-    "baslik": "Sayfa 169 - Video - Güçlü Aile Şarkısı",
+    "baslik": "Güçlü Aile Şarkısı",
     "tur": "Video",
     "sayfa": "2.html",
     "dosya": "video/2.mp4",
@@ -19,7 +19,7 @@
   },
   {
     "tema": 6,
-    "baslik": "Sayfa 170 - Video - El ele",
+    "baslik": "El ele",
     "tur": "Video",
     "sayfa": "3.html",
     "dosya": "video/3.mp4",
@@ -28,7 +28,7 @@
   },
   {
     "tema": 6,
-    "baslik": "Sayfa 177 - Video - Symphony No. 5 Scarf Tracing",
+    "baslik": "Symphony No. 5 Scarf Tracing",
     "tur": "Video",
     "sayfa": "4.html",
     "dosya": "video/4.mp4",

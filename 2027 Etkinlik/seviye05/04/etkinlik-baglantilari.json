@@ -1,7 +1,7 @@
 [
   {
     "tema": 4,
-    "baslik": "Sayfa 91 - Dinleme Metni - Adımız 19 Mayıs",
+    "baslik": "Adımız 19 Mayıs",
     "tur": "Ses",
     "sayfa": "1.html",
     "dosya": "ses/1.mp3",
@@ -10,7 +10,7 @@
   },
   {
     "tema": 4,
-    "baslik": "Sayfa 95 - Dinleme Metni - Komşumuz Nergis Teyze Çiçek Dayanışması",
+    "baslik": "Komşumuz Nergis Teyze Çiçek Dayanışması",
     "tur": "Ses",
     "sayfa": "2.html",
     "dosya": "ses/2.mp3",
@@ -19,7 +19,7 @@
   },
   {
     "tema": 4,
-    "baslik": "Sayfa 108 - Video - Sultan 3. Ahmet Çeşmesi",
+    "baslik": "Sultan 3. Ahmet Çeşmesi",
     "tur": "Video",
     "sayfa": "3.html",
     "dosya": "video/3.mp4",

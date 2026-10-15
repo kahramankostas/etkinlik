@@ -1,7 +1,7 @@
 [
   {
     "tema": 5,
-    "baslik": "Sayfa 124 - Video - TEKNOFEST Biz Yaptık",
+    "baslik": "TEKNOFEST Biz Yaptık",
     "tur": "Ses",
     "sayfa": "1.html",
     "dosya": "ses/1.mp3",
@@ -10,7 +10,7 @@
   },
   {
     "tema": 5,
-    "baslik": "Sayfa 129 - Dinleme Metni - Hayal mi Gerçek mi",
+    "baslik": "Hayal mi Gerçek mi",
     "tur": "Ses",
     "sayfa": "2.html",
     "dosya": "ses/2.mp3",
@@ -19,7 +19,7 @@
   },
   {
     "tema": 5,
-    "baslik": "Sayfa 135 - Dinleme Metni - Minyatür Tarihin Renkli İzleri",
+    "baslik": "Minyatür Tarihin Renkli İzleri",
     "tur": "Ses",
     "sayfa": "3.html",
     "dosya": "ses/3.mp3",
@@ -28,7 +28,7 @@
   },
   {
     "tema": 5,
-    "baslik": "Sayfa 116 - Video - Astronotlar Uzayda Ne Yiyor (Yatay)",
+    "baslik": "Astronotlar Uzayda Ne Yiyor",
     "tur": "Video",
     "sayfa": "4.html",
     "dosya": "video/4.mp4",
@@ -37,7 +37,7 @@
   },
   {
     "tema": 5,
-    "baslik": "Sayfa 131 - Video - Türksat 6A'nın Uzay Yolculuğu Başlıyor!",
+    "baslik": "Türksat 6A'nın Uzay Yolculuğu Başlıyor!",
     "tur": "Video",
     "sayfa": "5.html",
     "dosya": "video/5.mp4",
@@ -46,7 +46,7 @@
   },
   {
     "tema": 5,
-    "baslik": "Sayfa 144 - Video - Geleneksel Türk El Sanatları",
+    "baslik": "Geleneksel Türk El Sanatları",
     "tur": "Video",
     "sayfa": "6.html",
     "dosya": "video/6.mp4",

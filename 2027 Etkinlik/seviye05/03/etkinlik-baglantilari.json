@@ -1,7 +1,7 @@
 [
   {
     "tema": 3,
-    "baslik": "Sayfa 77 - Dinleme Metni - Havaalanı",
+    "baslik": "Havaalanı",
     "tur": "Ses",
     "sayfa": "1.html",
     "dosya": "ses/1.mp3",
@@ -10,7 +10,7 @@
   },
   {
     "tema": 3,
-    "baslik": "Sayfa 63 - Video - İstanbul",
+    "baslik": "İstanbul",
     "tur": "Video",
     "sayfa": "2.html",
     "dosya": "video/2.mp4",
