@@ -61,6 +61,10 @@
     "sayfa": "8.html",
     "dosya": "belgeler/8.docx",
     "orijinal_dosya": "4. Tema 5. Sayfa Anıtkabır Sanal müze.docx",
-    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye02/04/8.html"
+    "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye02/04/8.html",
+    "dis_baglantilar": [
+      "https://www.anitkabir.tsk.tr/09_sanal_muze/sanal_muze.html"
+    ],
+    "qr_adresi": "https://www.anitkabir.tsk.tr/09_sanal_muze/sanal_muze.html"
   }
 ]
