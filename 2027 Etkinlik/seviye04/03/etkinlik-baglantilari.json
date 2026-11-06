@@ -92,14 +92,15 @@
   {
     "tema": 3,
     "baslik": "4. Seviye 3. Tema Sıla Yolu 8. Etkinlik ‘’Memleketim’’ Şarkısı",
-    "tur": "Bağlantı",
+    "tur": "Video",
     "sayfa": "10.html",
-    "dosya": "belgeler/10.docx",
-    "orijinal_dosya": "sıla yolu 8. etkinlik memleketim şarkısı.docx",
+    "dosya": "video/10.mp4",
+    "orijinal_dosya": "kk1.mp4",
     "yayin_adresi": "https://ulkemyanimda.eba.gov.tr/etkinlik/2027%20Etkinlik/seviye04/03/10.html",
     "dis_baglantilar": [
       "http://ab.cdn.eba.gov.tr/ttk/kitap6/video/kk1.mp4"
-    ]
+    ],
+    "kaynak_adresi": "http://ab.cdn.eba.gov.tr/ttk/kitap6/video/kk1.mp4"
   },
   {
     "tema": 3,
